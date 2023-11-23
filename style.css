@@ -1,10 +1,11 @@
-body{background:black;}
+body{background:whitesmoke;}
 
-P{color: white;}
+P{color: black;}
 
-h1{color: white;}
+h1{color: black}
 
-#banner {width: 60%;}
+#banner {width: 50%;}
 
-h2{color: white
+h2{color:black}
    
+.image{width: 20%}
