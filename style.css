@@ -1,11 +1,7 @@
 body{background:whitesmoke;}
 
-P{color: black;}
+p{color: black;}
 
-P{text-align: center;}
+p{text-align: center;}
 
-a {text-align: center;}
-
-h1{color: black}
-
-h1{text-align: center;}
+h1{text-align: center; color:black;}
