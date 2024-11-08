@@ -2,11 +2,12 @@ body{background:whitesmoke;}
 
 p{color: black;}
 
-p{text-align: center;}
+p{text-align: center;font-size: 18px;}
 
-h1{text-align: center; color:black;}
+h1{text-align: center; color:black;font: size 35px;font-weight: bold;text-transform: uppercase;}
 
 a {text-align: center;}
 
 img {width: 50%
 }
+ul{display: inline-block;}
