@@ -8,8 +8,12 @@ h1{text-align: center; color:black;font: size 35px;font-weight: bold;text-transf
 
 a {text-align: center;}
 
-img {width: 35%
+img {width: 35%; display: block; margin-left: auto;margin-right: auto;
 }
+
+
 ul{display: inline-block;}
 
 li{color: black;font-weight: bold;text-transform: uppercase;font-size: 35px;}
+
+a{display: block;margin-left: auto;margin-right: auto;}
